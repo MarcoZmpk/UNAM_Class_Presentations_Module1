@@ -70,45 +70,7 @@
   
 	C++: This programming language is an object-oriented programming language that incorporates all the features of C. C++ is used for operating systems, games, embedded software, autonomous cars and medical technology, as well as many other applications. Companies like Facebook and Google use C++.
 
---- 
-
-
-### 2. Metodología de la programación orientada a objetos
-
-<br>
-
-#### Objetivo:
-#### 
-
 ---
-
-### 3. Desarrollo de sistemas de cómputo orientados a objetos
-
-<br>
-
-#### Objetivo:
-#### 
-
----
-
-### 4. Concepto, uso y aplicaciones de las estructuras de datos compuestas
-
-<br>
-
-#### Objetivo:
-#### 
-
----
-
-### 5. Interfaces gráficas de usuario
-
-<br>
-
-#### Objetivo:
-#### 
----
-
-
 ### Questions?
 
 <br>
